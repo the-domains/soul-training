@@ -1,4 +1,3 @@
-layout_spectrum: 0.49617897323332727
 typography_spectrum: 0.12216204451397061
 color:
   brandStrength: 0.7149458127096295
@@ -6,9 +5,11 @@ color:
   saturation: 0.656715813325718
   rhythmicContrast: 0.5282139719929546
   brandColors:
-    - '#000000'
-    - '#333333'
-    - '#FF358B'
-    - '#01B0F0'
-    - '#AEEE00'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.49617897323332727
 name: Soul Training
+title: Soul Training With Alicia Power
