@@ -1,16 +1,16 @@
-typography_spectrum: 0.1870196252129972
+layout_spectrum: 0.07811109861359
+typography_spectrum: 0.23140460555441678
 color:
-  brandStrength: 0.9725039340555668
-  lightness: 0.29246770683676004
-  saturation: 0.4152899438049644
-  rhythmicContrast: 0.636618260294199
+  brandStrength: 0.25427573709748685
+  lightness: 0.5961405804846436
+  saturation: 0.30054378183558583
+  rhythmicContrast: 0.848089866572991
   brandColors:
-    - '#25064D'
-    - '#36175E'
-    - '#553285'
-    - '#7B52AB'
-    - '#9768D1'
-layout_spectrum: 0.5496432310901582
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: Soul Training
 title: Soul Training With Alicia Power
 description: Make Your Way To Heaven!
